@@ -3,6 +3,7 @@
 # Example hook script for vzdump (--script option)
 # This can also be added as a line in /etc/vzdump.conf
 # e.g. 'script: /usr/local/bin/vzdump-hook-script.pl'
+#-------------
 
 
 use strict;
